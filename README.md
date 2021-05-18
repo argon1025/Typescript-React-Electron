@@ -1,6 +1,13 @@
 # Getting Started with Typescript + Electron + React + tailwind
 Simple Boilerplate for a project using Typescript, Electron, React and tailwind
 
+```
+my-app
+├── electron <-- Electron folder
+├── public <-- React public folder
+├── src <-- React index folder
+```
+
 # Installation
 ### 1.Clone this Project
 ```
