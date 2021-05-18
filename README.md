@@ -1,4 +1,5 @@
 # Getting Started with Typescript + Electron + React + tailwind
+![image](https://user-images.githubusercontent.com/55491354/118607094-29229400-b7f3-11eb-9911-e31f5559d81d.png)
 Simple Boilerplate for a project using Typescript, Electron, React and tailwind
 
 ```
